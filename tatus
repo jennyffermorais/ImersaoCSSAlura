@@ -1,0 +1,24 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex b8eadd7..bf83262 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -77,6 +77,19 @@[m
+           <figcaption>M de Maravilhosa</figcaption>[m
+         </figure>[m
+ [m
+[32m+[m[32m        <figure>[m[41m[m
+[32m+[m[32m          <a[m[41m[m
+[32m+[m[32m            href="https://jennyffermorais.github.io/PresentesNatal/"[m[41m[m
+[32m+[m[32m            target="_blank"[m[41m[m
+[32m+[m[32m          >[m[41m[m
+[32m+[m[32m            <img[m[41m[m
+[32m+[m[32m              class="img-portfolio"[m[41m[m
+[32m+[m[32m              src="./img/img06.jpg"[m[41m[m
+[32m+[m[32m              alt="Projetos com javascript"[m[41m[m
+[32m+[m[32m          /></a>[m[41m[m
+[32m+[m[32m          <figcaption>Presentes de Natal</figcaption>[m[41m[m
+[32m+[m[32m        </figure>[m[41m[m
+[32m+[m[41m[m
+         <figure>[m
+           <a href="https://mundo-gelado-jennyffer.netlify.app/" target="_blank">[m
+             <img class="img-portfolio" src="./img/img04.jpg" alt="eCommerce" />[m
